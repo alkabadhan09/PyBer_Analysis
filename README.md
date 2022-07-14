@@ -13,7 +13,7 @@ Looking at the PyBer Summary DataFrame, we notice that PyBer is most in demand i
 
 #### Multi-Line Chart:
 
-![Screenshot 2022-07-14 123406](https://user-images.githubusercontent.com/107225715/179068536-d0a9fcd4-8940-4a5a-abf7-c564c04aea2e.png)
+![ride](https://user-images.githubusercontent.com/107225715/179090832-b8a1f81a-28f3-4936-a457-dd3f0d7d4d4d.png)
 
 On the multi-line chart, we see weekly dips or peaks in the line graphs from the months of january to april of 2019. This further support our conclusions from the summary DataFrame as we see that  urban cities (yellow line) generated the most fare. Suburban cities (red line) are balanced between urban and rural cities, and PyBer is the least in demand in rural cities (blue line).
 
